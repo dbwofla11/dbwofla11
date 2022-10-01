@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-F05032.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
 ### Flamework & Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 
 -----------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)
