@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/GitLab-F05032.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
 
-my_status
+:clock10: my_status
 ----------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)<br>
