@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
 ### Flamework & Languages
-![Javascript](https://img.shields.io/badge/Javascript-007396.svg?&style=for-the-badge&logo=Javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=ffffff)
 
 -----------------------
