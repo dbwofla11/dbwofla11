@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/python-000000.svg?&style=for-the-badge&logo=python&logoColor=ffffff)
 
 -----------------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)
