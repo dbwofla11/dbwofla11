@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jaerim_YU&fontSize=90)
 
 
-<div align=center>
+
  
  📑: 문제풀이 
  ---------------
+<div align=center>
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwofla11)](https://solved.ac/dbwofla11/)
 
 </div>
