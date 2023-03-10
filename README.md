@@ -59,10 +59,11 @@ Here are some ideas to get you started:
 :clock10: 나의 상태 
 ----------------------
 
+<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwofla11)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwofla11)](https://solved.ac/dbwofla11/)
-
+</div>
