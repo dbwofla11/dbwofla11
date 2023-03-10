@@ -17,6 +17,20 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jaerim_YU&fontSize=90)
 
 
+:clock10: 나의 상태 
+----------------------
+
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)<br>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwofla11)](https://github.com/anuraghazra/github-readme-stats)
+
+📑: 문제풀이 
+---------------
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwofla11)](https://solved.ac/dbwofla11/)
+
+
 :bookmark_tabs: 프레임워크 및 언어 
 ------------------------------------
 
@@ -59,18 +73,4 @@ Here are some ideas to get you started:
 
 
 <br><br>
-
-
-:clock10: 나의 상태 
-----------------------
-
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwofla11&show_icons=true&theme=radical)<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dbwofla11)](https://github.com/anuraghazra/github-readme-stats)
-
-📑: 문제풀이 
----------------
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dbwofla11)](https://solved.ac/dbwofla11/)
 
