@@ -42,7 +42,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
 <br>
  
- <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next&logoColor=white">
+ <img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white">
  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
