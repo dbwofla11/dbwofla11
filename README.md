@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Yujaerim&fontSize=52&fontColor=FFFFFF&fontAlignY=45" alt="Yujaerim" width="100%" />
 
-### 안녕하세요, 유재림입니다 👋
 
 
 </div>
