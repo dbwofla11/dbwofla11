@@ -1,4 +1,4 @@
-<h1 align="center">👋 유재림 (Yujaerim)</h1>
+<h1 align="center">(Yujaerim)</h1>
 
 <p align="center">
   <code>Game AI</code> · <code>Computer Vision</code> · <code>Deep Learning</code>
