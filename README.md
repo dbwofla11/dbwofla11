@@ -2,7 +2,6 @@
 
 <p align="center">
   <code>Game AI</code>, <code>Computer Vision</code>, <code>Deep Learning</code><br>
-  <sub>게임과 AI를 연결하는 개발자입니다.</sub>
 </p>
 
 <p align="center">
