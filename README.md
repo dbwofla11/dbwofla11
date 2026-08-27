@@ -43,7 +43,7 @@
 | Game | **Fx-Fighter: EXIT** | Unity·C#으로 기획부터 게임 플레이 구현까지 진행한 게임 프로젝트 | `Unity` `C#` · [GitHub](https://github.com/dbwofla11/Fx-Fighter_EXITgame) |
 | Deep Learning | **Lens Noise Removal** | 딥러닝 기반 렌즈 노이즈 제거 실험 | `Python` `PyTorch` · [GitHub](https://github.com/dbwofla11/deepLearning_project) |
 | Data Analysis | **Campus Rent Analysis** | 대학가 월세 데이터를 수집·정리하고 지역별 주거비 분석 | `Python` `Pandas` · [GitHub](https://github.com/dbwofla11/campus-rent-analysis) |
-| Web | **Project Lilac / JOB** | 프론트엔드·백엔드 웹 프로젝트 및 컴포넌트 설계 | `JavaScript` `React` `Next.js` · [[Lilac Front](https://github.com/dbwofla11/Project_Lilac_Front)](https://github.com/dbwoflaqnzo3/job-front) |
+| Web | **Project Lilac / JOB** | 프론트엔드·백엔드 웹 프로젝트 및 컴포넌트 설계 | `JavaScript` `React` `Next.js` · [(https://github.com/dbwoflaqnzo3/job-front) |
 
 ---
 
