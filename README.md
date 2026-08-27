@@ -47,15 +47,13 @@
 
 ### // selected work
 
-**MM-Fi × Sionna RT** — WiFi CSI 기반 3D human pose 연구를 위한 데이터·시뮬레이션 파이프라인을 구성했습니다. → [github](https://github.com/dbwofla11/Comvision_Lab_MMFI_DTpose_withSionna)
-
-**SMPL Motion Pipeline** — SMPL forward pass를 직접 구현하고, 걷기·앉기 애니메이션을 프레임별 메쉬로 생성했습니다.
-
-**LCK Efficiency Analysis** — 경기 데이터를 분석해 선수 기여도(WAR)와 팀 운영 효율을 살펴봤습니다. → [github](https://github.com/dbwofla11/LCK-Efficiency-Analysis)
-
-**Fx-Fighter: EXIT** — Unity와 C#으로 게임을 기획하고 제작했습니다. → [github](https://github.com/dbwofla11/Fx-Fighter_EXITgame)
-
-**Deep Learning Training** — ANN, CNN, Transformer, GAN, VAE를 직접 구현하며 공부했습니다. → [github](https://github.com/dbwofla11/DeepLearning_Training)
+| Project | Description | Stack | Link |
+| --- | --- | --- | --- |
+| MM-Fi × Sionna RT | WiFi CSI 기반 3D human pose 연구 파이프라인 | Python · PyTorch · TensorFlow | [github](https://github.com/dbwofla11/Comvision_Lab_MMFI_DTpose_withSionna) |
+| SMPL Motion Pipeline | SMPL 메쉬 생성 및 걷기·앉기 애니메이션 구현 | Python · NumPy · Blender | — |
+| LCK Efficiency Analysis | 선수 기여도(WAR)와 팀 운영 효율 분석 | Python · Pandas · XGBoost · SHAP | [github](https://github.com/dbwofla11/LCK-Efficiency-Analysis) |
+| Fx-Fighter: EXIT | Unity와 C#을 활용한 게임 제작 | Unity · C# | [github](https://github.com/dbwofla11/Fx-Fighter_EXITgame) |
+| Deep Learning Training | ANN·CNN·Transformer·GAN·VAE 구현 학습 | Python · NumPy · Jupyter | [github](https://github.com/dbwofla11/DeepLearning_Training) |
 
 ---
 
