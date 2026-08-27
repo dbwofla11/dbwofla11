@@ -12,11 +12,7 @@
 
 ### // about
 
-숭실대학교 VIP Lab 학부연구생으로 활동하며 Unity 게임 개발 경험을 컴퓨터 비전과 딥러닝 연구로 확장하고 있습니다.
 
-- **Focus** — Game AI · 3D Human Pose · Simulation
-- **Currently working on** — SMPL 기반 사람 애니메이션과 가상 환경 생성
-- **Interested in** — 에이전트가 보고, 움직이고, 학습하는 방법
 
 ---
 
