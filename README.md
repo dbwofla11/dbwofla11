@@ -1,4 +1,4 @@
-<h1 align="center">👋 유재림 (Yujaerim)</h1>
+<h1 align="center">(Yujaerim)</h1>
 
 <p align="center">
   <code>Game AI</code> · <code>Computer Vision</code> · <code>Deep Learning</code>
@@ -51,7 +51,7 @@
 
 ## 🛠️ Skills
 
-### 🎮 Game
+### Game Develop & 3D Simulation 
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
@@ -64,7 +64,7 @@
 
 `Game Design` `Game Systems` `NPC` `FSM` `Behavior Tree` `Utility AI` `Pathfinding (A*)` `3D Modeling`
 
-### 🤖 AI
+### AI
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
@@ -83,13 +83,9 @@
 <p>
   <img src="https://img.shields.io/badge/SMPL-111827?style=flat-square" alt="SMPL">
   <img src="https://img.shields.io/badge/Sionna%20RT-111827?style=flat-square" alt="Sionna RT">
-  <img src="https://img.shields.io/badge/HoloDeck-2563EB?style=flat-square" alt="HoloDeck">
-  <img src="https://img.shields.io/badge/AI2--THOR-2563EB?style=flat-square" alt="AI2-THOR">
+
 </p>
 
-`Deep Learning` `CNN` `ANN` `Transformer` `GAN` `VAE` `Diffusion` `Self-Supervised Learning` `3D Pose Estimation` `WiFi CSI` `Data Analysis` `Feature Engineering` `PCA` `Random Forest`
-
-`Forward Kinematics` `Linear Blend Skinning` `Scene Graph` `Digital Twin` `Procedural Generation`
 
 ---
 
