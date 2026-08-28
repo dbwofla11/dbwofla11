@@ -46,6 +46,7 @@
 | Deep Learning | **Lens Noise Removal** | 딥러닝 기반 렌즈 노이즈 제거 실험 | `Python` `PyTorch` · [GitHub](https://github.com/dbwofla11/deepLearning_project) |
 | Data Analysis | **Campus Rent Analysis** | 대학가 월세 데이터를 수집·정리하고 지역별 주거비 분석 | `Python` `Pandas` · [GitHub](https://github.com/dbwofla11/campus-rent-analysis) |
 | Web | **Project Lilac / JOB** | 프론트엔드·백엔드 웹 프로젝트 및 컴포넌트 설계 | `JavaScript` `React` `Next.js` · [Lilac Front](https://github.com/dbwofla11/Project_Lilac_Front) |
+| Open Source | **OpenCowork** | 오픈소스 프로젝트 참여 | [GitHub](https://github.com/myunhh/OpenCowork) |
 
 ---
 
